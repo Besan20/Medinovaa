@@ -1,6 +1,6 @@
 # Medinovaa Backend Microservices
 
-This backend implements the first phase of the Hospital Management System using two collaborated Spring Boot microservices.
+This backend implements the first phase of the Hospital Management System using two collaborating Spring Boot microservices.
 
 ## Services
 
